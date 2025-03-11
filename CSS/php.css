@@ -1,0 +1,13 @@
+.form-error {
+   border: none; 
+   text-align: center; 
+   color: red; 
+   font-size: 1.2rem;
+}
+
+.form-success {
+   border: none;
+   text-align: center;
+   color: green;
+   font-size: 1.2rem;
+}
